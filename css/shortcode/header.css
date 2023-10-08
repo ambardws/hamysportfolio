@@ -53,7 +53,7 @@ nav#primary-menu {display: inline-block; float: left;}
     color:#0000ff;
 }
 .main-menu >li> a::after {
-  background: #0000ff none repeat scroll 0 0;
+  background: #F7D92A none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height:0px;
