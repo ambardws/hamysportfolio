@@ -926,3 +926,8 @@ span.comment-time {padding-right: 3px; position: relative;}
   color: #fff;
   border-color: #eeda00;
 }
+
+.logo-header {
+  height: 58px;
+  width: 106px;
+}
