@@ -931,3 +931,14 @@ span.comment-time {padding-right: 3px; position: relative;}
   height: 58px;
   width: 106px;
 }
+
+/* font */
+
+@font-face {
+  font-family: Helvetica;
+  src: url(./fonts/helvetica/Helvetica.ttf);
+}
+
+body {
+  font-family: Helvetica !important;
+}
