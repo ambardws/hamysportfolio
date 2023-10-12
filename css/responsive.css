@@ -380,7 +380,7 @@ width: 960px;
     height:410px;
 }
 .slideshow .slick-dots, .home4-slider-active .slick-dots {
-    top: 297px;
+    /* top: 297px; */
 }
 .social-icon-home {
     top: 296px;

@@ -133,7 +133,7 @@ p.sub-title {
 
 .slider-split {
   display: block;
-  overflow: hidden;
+  /* overflow: hidden; */
   position: relative;
   height: calc(100vh - 180px);
   width: 100%;
@@ -144,7 +144,7 @@ p.sub-title {
   top: 0;
   left: 0;
   height: calc(100vh - 180px);
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 100%;
 }
 .slideshow .slider {
@@ -174,13 +174,13 @@ p.sub-title {
   transform: translate(-50%, -50%);
 }
 .slideshow .slick-dots,.home4-slider-active .slick-dots {
-  position: fixed;
+  position: absolute;
   z-index: 9;
   width: 40px;
   height: auto;
   bottom: auto;
   top: 50%;
-  right: 0;
+  right: -80px;
   transform: translateY(-50%);
   left: auto;
   color: #fff;
