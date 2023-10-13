@@ -18,7 +18,7 @@
 
 .sub-title-i {
   font-size: 18px;
-  font-family: poppins;
+  font-family: 'Helvetica';
   font-style: italic;
   font-weight: 400;
 }
@@ -63,7 +63,7 @@
 .pro-content h6{
   font-size: 14px;
   text-transform:uppercase;
-  font-family: 'Poppins', sans-serif;
+  font-family: Helvetica;
 }
 .pro-content h4 a:hover{
   color: #eeda00;
@@ -96,7 +96,7 @@
 }
 .pro-content-hover h5 {
   font-style: italic;
-  font-family: 'Poppins', sans-serif;
+  font-family: Helvetica;
   font-weight: 400;
 }
 .pro-img{
@@ -271,7 +271,7 @@
 .home4-slide-single-text p {
   font-size: 45px;
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
+  font-family: Bagnard;
   line-height: 59px;
   color: #262626;
 }
@@ -294,7 +294,7 @@
 .testimonial-text p {
   font-size: 41px;
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
+  font-family: Bagnard;
   line-height: 59px;
   color: #262626;
 }
@@ -580,7 +580,7 @@
   font-size: 14px;
   margin-top: 5px;
   text-transform: uppercase;
-  font-family: 'Poppins', sans-serif;
+  font-family: Helvetica;
 }
 .social-links.st-team {
   position: absolute;
@@ -939,6 +939,7 @@ span.comment-time {padding-right: 3px; position: relative;}
   src: url(./fonts/helvetica/Helvetica.ttf);
 }
 
-body {
-  font-family: Helvetica !important;
+@font-face {
+  font-family: Bagnard;
+  src: url(./fonts/bagnard-sans.regular.otf);
 }

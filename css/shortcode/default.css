@@ -40,7 +40,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Poppins:400,500,600,700');
 body {
     color: #333;
-    font-family: 'Poppins', sans-serif;
+    font-family: Helvetica;
     font-size: 14px;
     text-align: left;
     line-height: 1.2!important;
@@ -161,7 +161,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Playfair Display', serif;
+    font-family: Bagnard;
     margin: 0px;
     color: #262626;
 }

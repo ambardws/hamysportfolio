@@ -185,7 +185,7 @@ ul.dropdown > li:hover > ul.inside-menu {
   position: relative;
   text-transform: uppercase;
   margin-top: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: Bagnard;
   margin-bottom: 15px;
 }
 .single-mega-item {
@@ -554,7 +554,7 @@ ul.dropdown > li:hover > ul.inside-menu {
 }
 .slide-title h2 {
   color: #fff;
-  font-family: poppins;
+  font-family: Helvetica;
   font-size: 34px;
   font-weight: bold;
   text-transform: capitalize!important;
@@ -676,7 +676,7 @@ ul.dropdown > li:hover > ul.inside-menu {
   color: #fff;
 }
 .probox-st-6 h5 {
-  font-family: 'Poppins', sans-serif;
+  font-family: Helvetica;
   font-weight: 400;
   text-transform: uppercase;
   font-size: 16px;
@@ -741,7 +741,7 @@ ul.dropdown > li:hover > ul.inside-menu {
   letter-spacing: 2px;
   padding: 0 0 15px;
   text-transform: capitalize;
-  font-family: 'Playfair Display', serif;
+  font-family: Bagnard;
 }
 #menu ul > li ul li a {
   color: #ffffff;
