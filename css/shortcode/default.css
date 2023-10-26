@@ -923,7 +923,7 @@ textarea {
 /*************************
     04. button
 *************************/
-}
+
 a.button:hover{color:#ffff;}
 a.button.button-red {
     background: #F15B65;
@@ -1248,7 +1248,7 @@ textarea:focus {
 background-size: cover;background-position: center center;}
 .bg-2 { background: url(../../images/about/abt-bg.jpg); background-position: center center;background-size: cover;}
 .bg-3 {
-  background: rgba(0, 0, 0, 0) url("../../images/bg/3.jpg") no-repeat scroll center top / cover ;
+  background: rgba(0, 0, 0, 0) url("../../images/bg/wall-portfolio.png") no-repeat scroll center top / cover ;
 }
 .bg-4 { background: url(../../images/bg/4.jpg);}
 .bg-5 {
